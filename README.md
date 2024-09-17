@@ -71,3 +71,7 @@ Import pandas, matplot, and seaborn. Pandas for dataframes, matplot and seaborn 
 - sns.heatmap(corr, annot=True, cmap='coolwarm', fmt='.2f') _- - - annot=True annotates each cell with the correlation efficient, cmap='coolwarm' is the color decided for the heatmap, fmt = '.2f' is the format for -displaying correlation coefficients in the heatmap_
 - plt.title('Correlation Heatmap')
 - plt.show()
+### Learnings
+1. I now know what Matplot and Seaborn does, they focus on graphs but vary slightly on what graphs they excel on.
+2. Grasped how to Pandas slightly better.
+3. Memorizing the cheat sheets are a pain, better to use them from time to time and understand.
